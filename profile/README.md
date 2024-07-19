@@ -20,7 +20,7 @@ We welcome contributions and collaboration! If you’re interested in working wi
 
 ## License
 
-All projects in this organization are licensed under the [MIT License](LICENSE) unless otherwise specified.
+All projects in this organization are licensed under the [Creative Common License](LICENSE) unless otherwise specified.
 
 ---
 
