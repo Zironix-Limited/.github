@@ -12,7 +12,7 @@ We welcome contributions and collaboration! If you’re interested in working wi
 
 ## Contact Us
 
-- **Website:** [www.zironix.com](http://www.zironix.com) (Coming Soon)
+- **Website:** [www.zironix.com](http://www.zironixlimited.com) (Coming Soon)
 - **LinkedIn:** [Zironix Limited LinkedIn](https://www.linkedin.com/company/zironixltd)
 - **Instagram:** [Zironix Limited Instagram](https://www.instagram.com/zironixltd/)
 - **Facebook:** [Zironix Limited Facebook](https://www.facebook.com/zironixltd)
